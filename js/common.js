@@ -27,13 +27,22 @@ location.forEach(el => {
 // header menu
 const menuEl = document.querySelector('.nav');
 const menuBtnEl = document.querySelector('.nav .btn_menu');
+const bodyEl = document.querySelector('body');
 menuBtnEl.addEventListener('click',()=>{
   if(menuEl.classList.contains('on')){
     menuEl.classList.remove('on');
+    bodyEl.style.overflowY = 'auto';
   } else{
     menuEl.classList.add('on');
+    bodyEl.style.overflowY = 'hidden';
   }
 });
+
+
+menuEl.addEventListener('scroll', ()=>{
+  bodyEl.style.overflow = 'hidden';
+});
+
 
 // 토글버튼
 const toggleEl = document.querySelectorAll('.toggle_list_group .toggle_item');
