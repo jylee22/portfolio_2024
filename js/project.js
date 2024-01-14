@@ -59,7 +59,6 @@ companyCountTextEl.appendChild(companyCountEl);
 
 const FreeprojectListEl = document.querySelector('.free_project');
 projectData.forEach(data => {
-  console.log(data);
   const freeEl = document.createElement('ul');
   freeEl.classList.add('project');
 
