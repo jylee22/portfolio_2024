@@ -114,6 +114,3 @@ function scrollToTop() {
 /* footer > 년도 표시 */
 const thisYearEl = document.querySelector('span.year');
 thisYearEl.textContent = new Date().getFullYear();
-
-// 애니메이션 동작
-AOS.init();
