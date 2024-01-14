@@ -25,7 +25,7 @@ export default [
     history : [
       {
         "month" : "08",
-        "content" : "2종보동운전면허(오토) 취득",
+        "content" : "2종보통운전면허(오토) 취득",
       },
       {
         "month" : "07",
@@ -68,7 +68,7 @@ export default [
       },
       {
         "month" : "08",
-        "content" : "프론트엔드 웹디자인 저문가 양성과정 교육 이수",
+        "content" : "프론트엔드 웹디자인 전문가 양성과정 교육 이수",
       },
       {
         "month" : "07",

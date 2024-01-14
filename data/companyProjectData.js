@@ -14,7 +14,7 @@ export default [
     "pjContribute" : "기여도",
     "contribute" : "반응형 웹 퍼블리싱 (100%)",
     "pjUrl" : "링크",
-    "url": `<a href="naecareer.com" class="btn_link" target="_blank">링크이동</a>`
+    "url": `<a href="https://www.naecareer.com" class="btn_link" target="_blank">링크이동</a>`
   },
   {
     "pjImage" : "",
@@ -31,7 +31,7 @@ export default [
     "pjContribute" : "기여도",
     "contribute" : "웹 퍼블리싱 (지원요청, 80%)",
     "pjUrl" : "링크",
-    "url": `<a href="닭들의고향.kr" class="btn_link" target="_blank">링크이동</a>`
+    "url": `<a href="http://www.닭들의고향.kr" class="btn_link" target="_blank">링크이동</a>`
   },
   {
     "pjImage" : "",
@@ -65,7 +65,7 @@ export default [
     "pjContribute" : "기여도",
     "contribute" : "웹 퍼블리싱 (100%)",
     "pjUrl" : "링크",
-    "url": `<a href="pcbsclean.co.kr" class="btn_link" target="_blank">링크이동</a>`
+    "url": `<a href="http://www.pcbsclean.co.kr" class="btn_link" target="_blank">링크이동</a>`
   },
   {
     "pjImage" : "",
@@ -82,7 +82,7 @@ export default [
     "pjContribute" : "기여도",
     "contribute" : "웹 퍼블리싱 (100%)",
     "pjUrl" : "링크",
-    "url": `<a href="ecobizhub.com" class="btn_link" target="_blank">링크이동</a>`
+    "url": `<a href="https://www.ecobizhub.com" class="btn_link" target="_blank">링크이동</a>`
   },
   {
     "pjImage" : "",
@@ -99,7 +99,7 @@ export default [
     "pjContribute" : "기여도",
     "contribute" : "웹 퍼블리싱 (컨텐츠 추가, 50%)",
     "pjUrl" : "링크",
-    "url": `<a href="idongjin.com" class="btn_link" target="_blank">링크이동</a>`
+    "url": `<a href="http://www.idongjin.com" class="btn_link" target="_blank">링크이동</a>`
   },
   {
     "pjImage" : "",
@@ -168,7 +168,7 @@ export default [
     "pjContribute" : "기여도",
     "contribute" : "웹 퍼블리싱 (100%)",
     "pjUrl" : "링크",
-    "url": `<a href="sbshoney.com" class="btn_link" target="_blank">링크이동</a>`
+    "url": `<a href="http://www.sbshoney.com" class="btn_link" target="_blank">링크이동</a>`
   },
   {
     "pjImage" : "",
@@ -185,7 +185,7 @@ export default [
     "pjContribute" : "기여도",
     "contribute" : "웹 퍼블리싱 (컨텐츠 추가, 50%)",
     "pjUrl" : "링크",
-    "url": `<a href="dnep.co.kr" class="btn_link" target="_blank">링크이동</a>`
+    "url": `<a href="http://www.dnep.co.kr" class="btn_link" target="_blank">링크이동</a>`
   },
   {
     "pjImage" : "",
@@ -202,7 +202,7 @@ export default [
     "pjContribute" : "기여도",
     "contribute" : "UI디자인(기존 디자인 제외, 100%) / 웹 퍼블리싱 (100%)",
     "pjUrl" : "링크",
-    "url": `<a href="mark-up.kr" class="btn_link" target="_blank">링크이동</a>`
+    "url": `<a href="https://www.mark-up.kr" class="btn_link" target="_blank">링크이동</a>`
   },
   {
     "pjImage" : "./asset/images/main.jpg",
