@@ -86,3 +86,6 @@ projectData.forEach(data => {
 
 FreeprojectListEl.appendChild(freeEl);
 });
+
+// 애니메이션 동작
+AOS.init();
