@@ -314,6 +314,9 @@
   .detail .text_group{
     flex: 0 0 100%;
   }
+  .text_group h4{
+    margin-bottom: 1rem;
+  }
 
   /* FAQ */
   .toggle_list_group .content_header span, 
